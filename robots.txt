@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://63-hr-solutions.vercel.app/sitemap.xml
