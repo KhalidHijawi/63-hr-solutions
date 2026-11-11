@@ -26,7 +26,7 @@ Current settings:
 | Saudi Arabia WhatsApp | +966 50 665 5192 |
 | Jordan WhatsApp | +962 79 840 0327 |
 | Instagram | @63hrsolutions (https://www.instagram.com/63hrsolutions/) |
-| LinkedIn | Coming soon |
+| LinkedIn | 63 HR Solutions (https://www.linkedin.com/company/63-hr-solutions/) |
 | Website | Add once it is live |
 
 **Common updates** (instructions are also at the top of the file):

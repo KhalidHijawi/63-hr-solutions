@@ -61,10 +61,10 @@ window.BRAND_SETTINGS = {
     {
       "id": "linkedin",
       "name": "63 HR Solutions",
-      "url": "",
-      "handle": "",
+      "url": "https://www.linkedin.com/company/63-hr-solutions/",
+      "handle": "63 HR Solutions",
       "label": { "en": "LinkedIn", "ar": "لينكدإن" },
-      "status": "coming-soon"
+      "status": "active"
     }
   ]
 };
